@@ -3,7 +3,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXpnZml6cHNkcXVpcXFma2VqbmRlbHF2dWQ3Y2EwZm9jeTVrNHp3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gOnMMCyqeh3m8/giphy.gif" alt="Bem-vinda" width="400"/>
 </p>
 
-# Olá! Eu sou a Maria Luiza 
+# Olá! Eu sou a Maria Luiza 🌼
 
 Estudante de **Análise e Desenvolvimento de Sistemas** (UniFBV Wyden — 2025–2028).  
 Focada em **Desenvolvimento Web**, **UX/UI** e **Banco de Dados**. Inglês fluente.

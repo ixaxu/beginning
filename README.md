@@ -17,7 +17,7 @@ Focada em **Desenvolvimento Web**, **UX/UI** e **Banco de Dados**. Inglês fluen
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/seu_usuario_aqui" target="_blank">
+  <a href="https://instagram.com/luizamoreirw" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="40" />
   </a>
 </p>
